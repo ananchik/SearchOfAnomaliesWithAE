@@ -8,3 +8,5 @@ This study shows the applicability of autoencoders to find anomalies in computer
 4. Implementation of machine learning algorithms
 
 Based on the results obtained, it is possible to evaluate the effectiveness of the applicability of autoencoders in the search for anomalies in comparison with machine learning algorithms.
+
+Read the article with results we can here https://elibrary.ru/item.asp?id=49329869
